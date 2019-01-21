@@ -1,0 +1,10 @@
+body{
+background-size:cover; /*que la imagen ocupe toda la página*//*añadimos transparencia a la imagen de fondo*/ background-image: linear-gradient(to bottom, rgba(0,0,0,0.9)0%,rgba(0,0,0,0.9) 100%), url(../figuras/pentagrama.jpg);}
+table.center {
+/*definimos la clase "center" para las tablas*/
+margin-left:auto;
+margin-right:auto;
+}
+h3 {color:green; font-size:30; font-family:"Verdana",sans-serif;}
+h4 {color:blue;}
+p {color:white; font-size:13; font-family:"Verdana",sans-serif;}
